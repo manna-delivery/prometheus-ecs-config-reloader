@@ -4,7 +4,7 @@ Side car service for Prometheus Server running in ECS that pull configurations f
 
 ## Motivation
 
-The code is based on original AWS example how to run Prometheus Server in ECS, with few modification to support internal requirements
+The code is based on [original AWS example](https://github.com/aws-samples/prometheus-for-ecs/) how to run Prometheus Server in ECS, with few modification to support internal requirements
 
 ## Configurations
 
